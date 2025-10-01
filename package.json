@@ -43,7 +43,7 @@
     "@ai-sdk/react": "2.0.11",
     "@codemirror/lang-json": "^6.0.2",
     "@hookform/resolvers": "^5.2.1",
-    "@inkeep/agents-core": "workspace:^",
+    "@inkeep/agents-core": "^0.11.3",
     "@inkeep/agents-manage-api": "workspace:^",
     "@inkeep/agents-run-api": "workspace:^",
     "@inkeep/cxkit-react-oss": "0.5.107",
